@@ -6,3 +6,4 @@ test featuremr
 test featuremr2
 test featuremr3
 test featuremr4
+test featuremr5
