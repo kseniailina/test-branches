@@ -13,3 +13,4 @@ fdfd
 sasa
 asdsdas
 pr-30
+composite build
